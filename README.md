@@ -46,7 +46,16 @@ If you want to add new images, you have to navigate to *images* folder. Once you
 
 The next step is to import this file into *index.html* file. For that purpose, the best way is to copy an *<img>* tag from the page and replace the name odf the image file.
 
-For example, if you copy *<img src="images/cover.jpg" alt="Chloe J Hill" class="img-fluid">*, this line with the new file could be *<img src="images/newfilename.jpg" alt="New name" class="img-fluid">*
+For example, if you copy
+
+```
+<img src="images/cover.jpg" alt="Chloe J Hill" class="img-fluid">
+```
+, this line with the new file could be
+
+```
+<img src="images/newfilename.jpg" alt="New name" class="img-fluid">
+```
 
 
 ## Adding new info blocks

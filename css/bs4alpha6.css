@@ -15,6 +15,6 @@
 .container.content { padding-top: 100px; }
 .site-header a.active { text-decoration: none; font-weight: bold; }
 .row-of-projects { padding-bottom: 20px; }
-.row-of-projects h6 { padding-top: 20px; }
+.row-of-projects h6 { padding: 20px 0px 5px 0px; }
 a.link-lightbox { color: rgb(41,43,44); }
 a.link-lightbox:hover { text-decoration: none; }

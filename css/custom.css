@@ -17,7 +17,6 @@ a:hover {
 }
 
 #covered { background: url('http://chloejhill.com/images/chloe2.jpg') no-repeat top left; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; }
-.love__item h2 {padding-top:1.5rem;}
 .hero h1 { font-weight: bold; }
 .hero * { padding: 0 5px; }
 .hero .row div { padding: 6rem 0rem 4rem 0rem; }
@@ -25,7 +24,6 @@ a:hover {
 .do-list li { font-size: 1.1em; }
 .container.content { padding-top: 60px; }
 .site-header a.active { text-decoration: none; font-weight: bold; }
-.row-of-projects { padding-bottom: 20px; }
 #passion h3 {
   padding: 15px 0;
 }
@@ -45,4 +43,15 @@ h3 {
 
 .nav-link {
   font-size: 1rem;
+}
+
+.row-of-projects { padding: 40px 0; }
+.project {
+  margin-bottom: 40px;
+}
+.project > img {
+  cursor: pointer;
+}
+.modal-body {
+  padding: 30px;
 }

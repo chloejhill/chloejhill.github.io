@@ -11,6 +11,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-

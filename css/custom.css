@@ -1,0 +1,48 @@
+::selection {
+  color: white;
+  background-color: #b06b80;
+}
+
+a
+,
+a:active,
+a:focus,
+a:hover {
+  color:#b06b80;
+}
+.social a:hover {
+  text-decoration:none;
+  background:#b06b80;
+  color: white;
+}
+
+#covered { background: url('http://chloejhill.com/images/chloe2.jpg') no-repeat top left; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; }
+.love__item h2 {padding-top:1.5rem;}
+.hero h1 { font-weight: bold; }
+.hero * { padding: 0 5px; }
+.hero .row div { padding: 6rem 0rem 4rem 0rem; }
+.site-header .navbar { border: 0px !important; }
+.do-list li { font-size: 1.1em; }
+.container.content { padding-top: 60px; }
+.site-header a.active { text-decoration: none; font-weight: bold; }
+.row-of-projects { padding-bottom: 20px; }
+#passion h3 {
+  padding: 15px 0;
+}
+.row-of-projects h3 { padding: 20px 0px 5px 0px; }
+a.link-lightbox { color: rgb(41,43,44); }
+a.link-lightbox:hover { text-decoration: none; }
+
+.section-heading {
+  margin: 1.5em 0;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1rem;
+}

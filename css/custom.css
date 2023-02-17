@@ -55,3 +55,19 @@ h3 {
 .modal-body {
   padding: 30px;
 }
+
+.grey-full-section {
+  background-color: #f3f3f3;
+  margin-top: 60px;
+  padding-bottom: 100px;
+}
+
+.list-of-services {
+  padding: 40px 0;
+}
+.service-item {
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 2px -2px #ccc;
+}

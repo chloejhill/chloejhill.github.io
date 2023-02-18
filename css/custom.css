@@ -71,3 +71,13 @@ h3 {
   border-radius: 10px;
   box-shadow: 0 4px 2px -2px #ccc;
 }
+
+.main-link {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#me h3,
+#me p {
+  margin-bottom: 30px;
+}

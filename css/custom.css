@@ -114,9 +114,7 @@ h3 {
     margin: 12rem 2rem 4rem 2rem;
     background: rgba(243, 243, 243, 0.8)
   }
-  #journey h3 {
-    h3 {
-      margin-top: 60px;
-    }
+  #journey img {
+    margin-bottom: 30px;
   }
 }

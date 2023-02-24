@@ -16,6 +16,11 @@ a:hover {
   color: white;
 }
 
+p {
+  color: #666 !important;
+  line-heigh: 24px !important;
+}
+
 #covered { background: url('http://chloejhill.com/images/chloe2.jpg') no-repeat top left; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; }
 .hero h1 { font-weight: bold; }
 .hero * { padding: 0 5px; }
@@ -55,9 +60,12 @@ h3 {
 }
 .service-item {
   padding: 30px;
+  text-align: center;
   background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 4px 2px -2px #ccc;
+  box-shadow: -6px 10px 40px rgb(0 0 0 / 6%);
+}
+.service-item .name {
+  padding-bottom: 15px;
 }
 
 .main-link {
